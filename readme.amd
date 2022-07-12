@@ -1,0 +1,18 @@
+# install nodemon
+npm install nodemon --save-dev
+
+# run
+npm run start
+
+# install ESlint
+/*Tools yang dapat membantu atau membimbing Anda untuk selalu 
+menuliskan kode JavaScript dengan gaya yang konsisten.
+*/
+
+npm install eslint --save-dev
+
+# init ESlint
+npx eslint --init
+
+#install nanoid
+npm install nanoid@3.x.x
