@@ -16,3 +16,7 @@ npx eslint --init
 
 #install nanoid
 npm install nanoid@3.x.x
+
+# to push in gitlab
+git remote add origin https://github.com/mulkiah/notes-app-back-end.git
+git push origin master
